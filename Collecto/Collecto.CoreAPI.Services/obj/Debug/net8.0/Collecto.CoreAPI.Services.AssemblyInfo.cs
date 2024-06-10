@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Collecto.CoreAPI.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c35e7e3733e6a1c80251e18c25f3206311283dd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c45bd57828da29901dc0f2b4c617fcabb01c1842")]
 [assembly: System.Reflection.AssemblyProductAttribute("Collecto.CoreAPI.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Collecto.CoreAPI.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
