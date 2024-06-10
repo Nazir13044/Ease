@@ -4422,19 +4422,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TN-99375\\.nuget\\packages\\": {}
+    "C:\\Users\\mdnazrulahsan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Local\\Collecto\\Collecto.CoreAPI.Services\\Collecto.CoreAPI.Services.csproj",
+      "projectUniqueName": "D:\\Projrects\\PersonnelProjects\\Ease\\Collecto\\Collecto.CoreAPI.Services\\Collecto.CoreAPI.Services.csproj",
       "projectName": "Collecto.CoreAPI.Services",
-      "projectPath": "D:\\Local\\Collecto\\Collecto.CoreAPI.Services\\Collecto.CoreAPI.Services.csproj",
-      "packagesPath": "C:\\Users\\TN-99375\\.nuget\\packages\\",
-      "outputPath": "D:\\Local\\Collecto\\Collecto.CoreAPI.Services\\obj\\",
+      "projectPath": "D:\\Projrects\\PersonnelProjects\\Ease\\Collecto\\Collecto.CoreAPI.Services\\Collecto.CoreAPI.Services.csproj",
+      "packagesPath": "C:\\Users\\mdnazrulahsan\\.nuget\\packages\\",
+      "outputPath": "D:\\Projrects\\PersonnelProjects\\Ease\\Collecto\\Collecto.CoreAPI.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TN-99375\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mdnazrulahsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4448,11 +4448,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Local\\Collecto\\Collecto.CoreAPI.Models\\Collecto.CoreAPI.Models.csproj": {
-              "projectPath": "D:\\Local\\Collecto\\Collecto.CoreAPI.Models\\Collecto.CoreAPI.Models.csproj"
+            "D:\\Projrects\\PersonnelProjects\\Ease\\Collecto\\Collecto.CoreAPI.Models\\Collecto.CoreAPI.Models.csproj": {
+              "projectPath": "D:\\Projrects\\PersonnelProjects\\Ease\\Collecto\\Collecto.CoreAPI.Models\\Collecto.CoreAPI.Models.csproj"
             },
-            "D:\\Local\\Collecto\\Collecto.CoreAPI.TransactionManagement\\Collecto.CoreAPI.TransactionManagement.csproj": {
-              "projectPath": "D:\\Local\\Collecto\\Collecto.CoreAPI.TransactionManagement\\Collecto.CoreAPI.TransactionManagement.csproj"
+            "D:\\Projrects\\PersonnelProjects\\Ease\\Collecto\\Collecto.CoreAPI.TransactionManagement\\Collecto.CoreAPI.TransactionManagement.csproj": {
+              "projectPath": "D:\\Projrects\\PersonnelProjects\\Ease\\Collecto\\Collecto.CoreAPI.TransactionManagement\\Collecto.CoreAPI.TransactionManagement.csproj"
             }
           }
         }
@@ -4497,7 +4497,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

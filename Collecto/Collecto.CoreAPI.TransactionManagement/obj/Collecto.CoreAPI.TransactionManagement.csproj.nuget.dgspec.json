@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Local\\Collecto\\Collecto.CoreAPI.TransactionManagement\\Collecto.CoreAPI.TransactionManagement.csproj": {}
+    "D:\\Projrects\\PersonnelProjects\\Ease\\Collecto\\Collecto.CoreAPI.TransactionManagement\\Collecto.CoreAPI.TransactionManagement.csproj": {}
   },
   "projects": {
-    "D:\\Local\\Collecto\\Collecto.CoreAPI.TransactionManagement\\Collecto.CoreAPI.TransactionManagement.csproj": {
+    "D:\\Projrects\\PersonnelProjects\\Ease\\Collecto\\Collecto.CoreAPI.TransactionManagement\\Collecto.CoreAPI.TransactionManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Local\\Collecto\\Collecto.CoreAPI.TransactionManagement\\Collecto.CoreAPI.TransactionManagement.csproj",
+        "projectUniqueName": "D:\\Projrects\\PersonnelProjects\\Ease\\Collecto\\Collecto.CoreAPI.TransactionManagement\\Collecto.CoreAPI.TransactionManagement.csproj",
         "projectName": "Collecto.CoreAPI.TransactionManagement",
-        "projectPath": "D:\\Local\\Collecto\\Collecto.CoreAPI.TransactionManagement\\Collecto.CoreAPI.TransactionManagement.csproj",
-        "packagesPath": "C:\\Users\\TN-99375\\.nuget\\packages\\",
-        "outputPath": "D:\\Local\\Collecto\\Collecto.CoreAPI.TransactionManagement\\obj\\",
+        "projectPath": "D:\\Projrects\\PersonnelProjects\\Ease\\Collecto\\Collecto.CoreAPI.TransactionManagement\\Collecto.CoreAPI.TransactionManagement.csproj",
+        "packagesPath": "C:\\Users\\mdnazrulahsan\\.nuget\\packages\\",
+        "outputPath": "D:\\Projrects\\PersonnelProjects\\Ease\\Collecto\\Collecto.CoreAPI.TransactionManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TN-99375\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mdnazrulahsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
