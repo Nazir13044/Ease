@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Collecto/Collecto.CoreAPI.TransactionManagement/obj/Debug/net8.0/Collecto.CoreAPI.TransactionManagement.AssemblyInfo.cs
+/Collecto/Collecto.CoreAPI.TransactionManagement/obj/Debug/net8.0/Collecto.CoreAPI.TransactionManagement.AssemblyInfoInputs.cache
+/Collecto/Collecto.CoreAPI.Services/obj/Debug/net8.0/Collecto.CoreAPI.Services.AssemblyInfo.cs
+/Collecto/Collecto.CoreAPI.Services/obj/Debug/net8.0/Collecto.CoreAPI.Services.AssemblyInfoInputs.cache
+/Collecto/Collecto.CoreAPI.Services/obj/Debug/net8.0/Collecto.CoreAPI.Services.csproj.AssemblyReference.cache
+/Collecto/Collecto.CoreAPI.Models/obj/Debug/net8.0/Collecto.CoreAPI.Models.AssemblyInfo.cs
+/Collecto/Collecto.CoreAPI.Models/obj/Debug/net8.0/Collecto.CoreAPI.Models.AssemblyInfoInputs.cache
+/Collecto/Collecto.CoreAPI.Models/obj/Debug/net8.0/Collecto.CoreAPI.Models.csproj.AssemblyReference.cache
