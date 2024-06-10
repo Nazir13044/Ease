@@ -1,0 +1,12 @@
+D:\Local\Collecto\Collecto.CoreAPI.TransactionManagement\obj\Debug\net8.0\Collecto.CoreAPI.TransactionManagement.csproj.AssemblyReference.cache
+D:\Local\Collecto\Collecto.CoreAPI.TransactionManagement\obj\Debug\net8.0\Collecto.CoreAPI.TransactionManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local\Collecto\Collecto.CoreAPI.TransactionManagement\obj\Debug\net8.0\Collecto.CoreAPI.TransactionManagement.AssemblyInfoInputs.cache
+D:\Local\Collecto\Collecto.CoreAPI.TransactionManagement\obj\Debug\net8.0\Collecto.CoreAPI.TransactionManagement.AssemblyInfo.cs
+D:\Local\Collecto\Collecto.CoreAPI.TransactionManagement\obj\Debug\net8.0\Collecto.CoreAPI.TransactionManagement.csproj.CoreCompileInputs.cache
+D:\Local\Collecto\Collecto.CoreAPI.TransactionManagement\bin\Debug\net8.0\Collecto.CoreAPI.TransactionManagement.deps.json
+D:\Local\Collecto\Collecto.CoreAPI.TransactionManagement\bin\Debug\net8.0\Collecto.CoreAPI.TransactionManagement.dll
+D:\Local\Collecto\Collecto.CoreAPI.TransactionManagement\bin\Debug\net8.0\Collecto.CoreAPI.TransactionManagement.pdb
+D:\Local\Collecto\Collecto.CoreAPI.TransactionManagement\obj\Debug\net8.0\Collecto.CoreAPI.TransactionManagement.dll
+D:\Local\Collecto\Collecto.CoreAPI.TransactionManagement\obj\Debug\net8.0\refint\Collecto.CoreAPI.TransactionManagement.dll
+D:\Local\Collecto\Collecto.CoreAPI.TransactionManagement\obj\Debug\net8.0\Collecto.CoreAPI.TransactionManagement.pdb
+D:\Local\Collecto\Collecto.CoreAPI.TransactionManagement\obj\Debug\net8.0\ref\Collecto.CoreAPI.TransactionManagement.dll

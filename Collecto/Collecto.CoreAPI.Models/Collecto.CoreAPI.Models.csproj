@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\TN-99375\.nuget\packages\ease.net7\1.0.3\contentFiles\any\net7.0\cel.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.6.1" />
+    <PackageReference Include="Twilio" Version="7.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Collecto.CoreAPI.TransactionManagement\Collecto.CoreAPI.TransactionManagement.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+D:\local\Collecto\Collecto.CoreAPI.Models\bin\Debug\net8.0\Collecto.CoreAPI.Models.deps.json
+D:\local\Collecto\Collecto.CoreAPI.Models\bin\Debug\net8.0\Collecto.CoreAPI.Models.dll
+D:\local\Collecto\Collecto.CoreAPI.Models\bin\Debug\net8.0\Collecto.CoreAPI.Models.pdb
+D:\local\Collecto\Collecto.CoreAPI.Models\obj\Debug\net8.0\Collecto.CoreAPI.Models.csproj.AssemblyReference.cache
+D:\local\Collecto\Collecto.CoreAPI.Models\obj\Debug\net8.0\Collecto.CoreAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\local\Collecto\Collecto.CoreAPI.Models\obj\Debug\net8.0\Collecto.CoreAPI.Models.AssemblyInfoInputs.cache
+D:\local\Collecto\Collecto.CoreAPI.Models\obj\Debug\net8.0\Collecto.CoreAPI.Models.AssemblyInfo.cs
+D:\local\Collecto\Collecto.CoreAPI.Models\obj\Debug\net8.0\Collecto.CoreAPI.Models.csproj.CoreCompileInputs.cache
+D:\local\Collecto\Collecto.CoreAPI.Models\obj\Debug\net8.0\Collecto.CoreAPI.Models.dll
+D:\local\Collecto\Collecto.CoreAPI.Models\obj\Debug\net8.0\refint\Collecto.CoreAPI.Models.dll
+D:\local\Collecto\Collecto.CoreAPI.Models\obj\Debug\net8.0\Collecto.CoreAPI.Models.pdb
+D:\local\Collecto\Collecto.CoreAPI.Models\obj\Debug\net8.0\ref\Collecto.CoreAPI.Models.dll
+D:\Local\Collecto\Collecto.CoreAPI.Models\bin\Debug\net8.0\Collecto.CoreAPI.TransactionManagement.dll
+D:\Local\Collecto\Collecto.CoreAPI.Models\bin\Debug\net8.0\Collecto.CoreAPI.TransactionManagement.pdb
+D:\Local\Collecto\Collecto.CoreAPI.Models\obj\Debug\net8.0\Collecto.6765BBF9.Up2Date
